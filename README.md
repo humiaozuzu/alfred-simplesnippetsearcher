@@ -2,7 +2,7 @@
 
 Search all your commonly used server snippet in one file, say goodbuy to the fucking TextExpander and Dash.
 
-# commands
+# Commands
 
 - `sss {db_full_path}` - set snippets db path
 - `sse` - edit snippets db file
